@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="match_parent"
+    android:weightSum="10">
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView3"
+        android:name="com.example.ebook.FragmentChapter"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="76dp"
+        android:layout_weight="4"
+        tools:layout_editor_absoluteY="66dp" />
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView4"
+        android:name="com.example.ebook.FragmentContent"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="6"/>
+
+
+</LinearLayout>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">EBOOK</string>
+
+    <string-array name="chapter_book">
+        <item>Never tell a lie</item>
+        <item>The Bear and the Bees</item>
+        <item>The crow and the pitcher</item>
+        <item>Friendship is a strong weapon</item>
+        <item>The Lion and The Gnat</item>
+        <item>What is the afterlife like?</item>
+        <item>Never fight over trifles</item>-->
+        <item>Better bent than broken</item>-->
+        <item>Belling the cat</item>-->
+    </string-array>
+
+    <string-array name="content_book">
+        <item>
+            On his deathbed, a father advised his son to always speak truth. The son promised that he would never tell a lie. One day, while going to the city through a forest, he got surrounded by some robbers. One of them asked, “What do you have?” The boy answered, “I have fifty rupees.” They searched him but couldn’t find anything. When they were about to go, the boy called out, “I am not telling a lie. See this fifty rupee note which I had hidden in my shirt.” The leader of the robbers felt pleased at the truthfulness of the boy, gave him hundred rupees as reward and went away.
+         </item>
+        <item>
+            A Bear came across a log where a Swarm of Bees had nested to make their honey. As he snooped around, a single little Bee flew out of the log to protect the swarm. Knowing that the Bear would eat all the honey, the little bee stung him sharply on the nose and flew back into the log. This flew the Bear into an angry rage. He swatted at the log with his big claws, determined to destroy the nest of bees inside. This only alerted the bees and quick as a wink, the entire swarm of bees flew out of the log and began to sting the bear from head to heel. The Bear saved himself by running to and diving into the nearest pond.</item>
+        <item>
+            In a spell of dry weather, when the Birds could find very little to drink, a thirsty Crow found a pitcher with a little water in it. But the pitcher was high and had a narrow neck, and no matter how he tried, the Crow could not reach the water. The poor thing felt as if he must die of thirst. Then an idea came to him. Picking up some small pebbles, he dropped them into the pitcher one by one. With each pebble the water rose a little higher until at last it was near enough so he could drink. “In a pinch a good use of our wits may help us out.”</item>
+        <item>
+            It was hot summer. A lion went to a pool to drink water. Just then a pig also came there to quench his thirst. Both of them wanted to drink first. They looked at each other with blood-shot eyes and attacked each other with so much anger that soon they started bleeding. Feeling tired, both stopped for a while to be fresh. Suddenly, they heard the screams of vultures. They saw that a large number of vultures were looking at them with longing eyes. In no time, both the beasts understood that the vultures were waiting for one of them to be killed by the other so that they might feed on his dead body. So both of them became friends, quenched their thirst and went away. Thus, their friendship saved their lives</item>
+        <item>
+            “Away with you, vile insect!” said a Lion angrily to a Gnat that was buzzing around his head. But the Gnat was not in the least disturbed. “Do you think,” he said spitefully to the Lion, “that I am afraid of you because they call you king?” The next instant he flew at the Lion and stung him sharply on the nose. Mad with rage, the Lion struck fiercely at the Gnat, but only succeeded in tearing himself with his claws. Again and again the Gnat stung the Lion, who now was roaring terribly. At last, worn out with rage and covered with wounds that his own teeth and claws had made, the Lion gave up the fight. The Gnat buzzed away to tell the whole world about his victory, but instead he flew straight into a spider’s web. And there, he who had defeated the King of beasts came to a miserable end, the prey of a little spider. The least of our enemies is often the most to be feared. Pride over a success should not throw us off our guard.</item>
+        <item>
+            Sidy and Irve are business partners. They made a deal that who dies first will contact other the living one from the afterlife. So Irve dies. Sidy doesn’t hear from him for about a year, figures there is no afterlife. Then one day he gets a call. It’s Irv. “So there is an afterlife! What’s it like?” Sid asks. “Well, I sleep very late. I get up, have a big breakfast. Then I have sex, lots of sex. Then I go back to sleep, but I get up for lunch, have a big lunch. Have some more sex, take a nap. Huge dinner. More sex. Go to sleep and wake up the next day.” “Oh, my God,” says Sid. “So that’s what heaven is like?” “Oh no,” says Irv. “I’m not in heaven. I’m a bear in Yellowstone Park.”</item>
+        <item>
+            Once a huge oak tree stood on the bank of a river. It was well nourished by the water of the river. Naturally, it was very strong and had a thick stem. Just nearby, grew some reeds with thin but flexible stems. They stood almost half in water and had flourished well too. One day, strong winds blew. The tree, though huge and strong, broke from the middle and was thrown across the stream just among the reeds. On the other hand, the tree was very surprised to see that the reeds suffered no harm at all. The oak could not make out the reason of the safety of the reeds and asked them, "How is it that, you being frail and slender, managed to face the gale without any harm. But I, strong enough, have been broken." The reeds replied, "You were proud of your strength and refused to bend. So, you broke while we bowed and yielded to the gale and were spared."</item>-->
+        <item>
+            Once there lived a hind in a forest. She had a son who had grown very young and strong. She was very happy to see his stout body and branched strong horns and thought, "stags have powerful horns, why should they be afraid of hounds, wolves then? It's sheer cowardice. I would never like my son to do it at all." </item>
+        <item>
+            Long ago, the mice had a general council to consider what measures they could take to outwit their common enemy, the Cat. Some said this, and some said that; but at last a young mouse got up and said he had a proposal to make, which he thought would meet the case. "You will all agree," said he, "that our chief danger consists in the sly and treacherous manner in which the enemy approaches us. Now, if we could receive some signal of her approach, we could easily escape from her." "I venture, therefore, to propose that a small bell be procured, and attached by a ribbon round the neck of the Cat. By this means we should always know when she was about, and could easily retire while she was in the neighbourhood. "This proposal met with general applause, until an old mouse got up and said: "That is all very well, but who is to bell the Cat?" The mice looked at one another and nobody spoke. Then the old mouse said: "IT IS EASY TO PROPOSE IMPOSSIBLE REMEDIES."</item>-->
+
+    </string-array>
+</resources>
